@@ -1,7 +1,7 @@
 # MREA
 Codes for Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction
 The models trained by us can be downloaded from Baidu Netdisk:   
-https://pan.baidu.com/s/1cmYDEJo67jRUrXtMz9uxfQ password:ls5s
+https://pan.baidu.com/s/17RNHQzeyFhRRZK7479b5PQ    n5je
 
 ## 0. Requirement
 python 3.6.12  
