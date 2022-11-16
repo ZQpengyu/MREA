@@ -32,13 +32,10 @@ python LCQMC/train.py
 
 ## Acknowledgement
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
-@inproceedings{UPGAN-WWW-2020,
-  author    = {Gaole He,
-               Junyi Li,
-               Wayne Xin Zhao,
-               Peiju Liu and
-               Ji{-}Rong Wen},
-  title     = {Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning},
-  booktitle = {{WWW}},
-  year      = {2020}
+
+@article{MREA-ASOC-2022,
+  author    = {Wenpeng Lu, Pengyu Zhao, Yifeng Li, Shoujin Wang, Heyan Huang, Shumin Shi and Hao Wu},
+  title     = {Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction},
+  journal = {{Applied Soft Computing}},
+  year      = {2022}
 }
