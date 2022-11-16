@@ -34,18 +34,15 @@ python LCQMC/train.py
 Any scientific publications that use our codes and datasets should cite the following paper as the reference:
 
  @article{MREA-ASOC-2022,
-
-   author    = {Wenpeng Lu, 
-                Pengyu Zhao, 
-                Yifeng Li,                
-                Shoujin Wang,                
-                Heyan Huang,               
-                Shumin Shi and              
-                Hao Wu},
-
+    author    = {Wenpeng Lu, 
+                 Pengyu Zhao, 
+                 Yifeng Li,                
+                 Shoujin Wang,                
+                 Heyan Huang,               
+                 Shumin Shi and              
+                 Hao Wu},
+1
    title     = {Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction},
-
    journal = {{Applied Soft Computing}},
-
    year      = {2022}
  }
