@@ -36,17 +36,11 @@ Any scientific publications that use our codes and datasets should cite the foll
 @article{MREA-ASOC-2022,
 
   author    = {Wenpeng Lu, 
-  
                Pengyu Zhao, 
-               
-               Yifeng Li, 
-               
-               Shoujin Wang, 
-               
-               Heyan Huang, 
-               
-               Shumin Shi and 
-               
+               Yifeng Li,                
+               Shoujin Wang,                
+               Heyan Huang,               
+               Shumin Shi and              
                Hao Wu},
                
   title     = {Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction},
