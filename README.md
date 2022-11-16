@@ -1,5 +1,8 @@
 # MREA
-Codes for Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction
+
+This is our Keras implementation for the paper:
+Wenpeng Lu*; Pengyu Zhao; Yifeng Li; Shoujin Wang; Heyan Huang; Shumin Shi; Hao Wu. Chinese Sentence Semantic Matching Based on Multi-level Relevance Extraction and Aggregation for Intelligent Human-robot Interaction, Applied Soft Computing.
+
 The models trained by us can be downloaded from Baidu Netdisk:   
 https://pan.baidu.com/s/17RNHQzeyFhRRZK7479b5PQ    n5je
 
