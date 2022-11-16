@@ -6,6 +6,9 @@ Wenpeng Lu*; Pengyu Zhao; Yifeng Li; Shoujin Wang; Heyan Huang; Shumin Shi; Hao 
 
 The models trained by us can be downloaded from Baidu Netdisk:   https://pan.baidu.com/s/17RNHQzeyFhRRZK7479b5PQ    n5je
 
+## Introduction
+In this paper, we propose Chinese sentence semantic matching based on Multi-level Relevance Extraction and Aggregation (MREA) for intelligent QA. MREA can comprehensively capture and aggregate various semantic relevance on character, word and sentence levels respectively based on multiple attention mechanisms.
+
 ## 0. Requirement
 python 3.6.12  
 tensorflow-gpu == 1.12.0  
