@@ -31,7 +31,7 @@ python BQ/train.py
 python LCQMC/train.py    
 
 ## Acknowledgement
-Any scientific publications that use our codes and datasets should cite the following paper as the reference:
+Any scientific publications that use our codes should cite the following paper as the reference:
 <pre><code>
  @article{MREA-ASOC-2022, 
     author    = {Wenpeng Lu,  
